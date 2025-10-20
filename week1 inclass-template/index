@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 2 - Internet Explorer Exploded = Semantic Sentiments and Aspirations (In Class Assignment)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Iceberg&family=Nabla&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <header>
+        <img src="assets/images/future_vision.png" alt="Future Vision in block type over gradient floating squares">
+    </header>
+    <main>
+        <div class="row">
+            <h1>
+                How will you begin to dream something no machine can dream?
+            </h1>
+            <img src="assets/images/blur.png" alt="blur of pink ellipse" min-width="800px">
+        </div>
+        <div class="row">
+            <h3>
+                From Franz Fanon's <em>Peau noire, masques blancs / Black Skin, White Masks</em>, 1952/1967
+            </h3>
+            <br>
+            <p>
+                As David Marriot points out in his essay 'Inventions of Existence: Sylvia Wynter, Frantz Fanon,
+                Sociogeny, and "the Damned' "Fanon makes a certain reference to history, which he contrasts to that of
+                invention and that of self-creation:"
+            </p>
+            <br>
+            <br>
+            <p>
+                <em>
+                    "I am not a prisoner of History [l'Histoire]. I should not seek there for the meaning of my destiny.
+                    I should constantly remind myself that the real leap [le véritable saut] consists in introducing
+                    invention into existence. In the world through which I travel, I am endlessly creating myself."
+                </em>
+            </p>
+        </div>
+        <div class="row2">
+            <h2>
+                If memory is built from shared stories, which dreams do you want written into the past? 
+            </h2>
+            <br>
+            <h3>What remains of you when all your stories are rewritten?</h3>
+        </div>
+        <div class="row2">
+            <h4>
+                If you seek to realize your hopes through AI, how will you ensure that it remains faithful to your will?
+            </h4>
+        </div>
+        <div class="row">
+            <br>
+            <img src="assets/images/2.png" alt="boxes" width="200px">
+            <br>
+            <h3>
+                <a href="https://canvas.duke.edu/courses/65265">TRANSCRIPT:
+                    Octavia Butler and Samuel Delany, 1998</a>
+            </h3>
+        </div>
+        <div class="row">
+            <ul>
+                <li>
+                    Which relationships will make your life meaningful and magical. How do you nurture them?
+                </li>
+                <li>
+                    What are the aesthetics of the places that you live your life and how did they come to be that way?
+                </li>
+                <li>
+                    How do you spend your time? What stories do you seek out - to tell or to listen to?
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    How will it sound? What will the rhythm of your day be?
+                </li>
+                <li>
+                    How will you move through the world?
+                </li>
+                <li>
+                    How do you spend your time? What stories do you seek out, whether to share or to absorb and pass on?
+                </li>
+            </ul>
+        </div>
+        <img src="assets/images/past stories.png"
+            alt="Stories for a PAST we can DREAM as block type floating over gradient floating squares">
+    </main>
+    <footer>
+        <br>
+        Template for of Web-Based Multimedia Design <em>Future vision</em> Fall 2025
+        in-class assignment
+        <br>
+        <br>
+    </footer>
+</body>
+
+</html>
